@@ -9,15 +9,15 @@ Passionate about building real-world AI solutions, I continuously expand my skil
 
 ---
 
-### Technical Skills & Interests
+## Technical Skills & Interests
 
-#### Core
+### Core
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/scikit-learn@0.1.0/index.min.js" alt="Scikit-learn" width="40" height="40"/>
 </p>
 
 #### Other Experience
@@ -29,12 +29,12 @@ Passionate about building real-world AI solutions, I continuously expand my skil
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
 </p>
 
-#### Interests
+### Interests
 Machine Learning, Deep Learning, Computer Vision, NLP, Reinforcement Learning, Forecasting.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![](https://nirzak-streak-stats.vercel.app/?user=MohamedLouayChatti&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedLouayChatti&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
