@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=AI+Enthusiast&animation=fadeIn&type=waving&color=gradient&height=100" alt="AI Engineer" />
+  <img src="https://capsule-render.vercel.app/api?text=AI+Engineer&animation=fadeIn&type=waving&color=gradient&height=100" alt="AI Engineer" />
 </p>
 
 ## Hi, I’m Mohamed Louay Chatti
@@ -36,4 +36,5 @@ Machine Learning, Deep Learning, Computer Vision, NLP, Reinforcement Learning, F
 
 ### 📊 GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedLouayChatti&show_icons=true&theme=radical)](https://github.com/MohamedLouayChatti)
+![](https://nirzak-streak-stats.vercel.app/?user=MohamedLouayChatti&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedLouayChatti&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
