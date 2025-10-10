@@ -1,16 +1,36 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=AI+Enthusiast&animation=fadeIn&type=waving&color=gradient&height=100" alt="AI Enthusiast" />
+</p>
 
-<!--
-**MohamedLouayChatti/MohamedLouayChatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I’m Mohamed Louay Chatti
 
-Here are some ideas to get you started:
+I’m an AI / ML enthusiast and aspiring engineer currently studying software engineering.
+Passionate about building real-world AI solutions, I continuously expand my skills through hands-on projects — from developing machine learning and deep learning models to exploring computer vision and natural language processing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Skills & Interests
+
+#### 🧠 Core
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
+</p>
+
+#### 💻 Other Experience
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
+</p>
+
+#### 🎯 Interests
+Machine Learning, Deep Learning, Computer Vision, NLP, Reinforcement Learning, Forecasting.
+
+---
+
+### 📊 GitHub Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedLouayChatti&show_icons=true&theme=radical)](https://github.com/MohamedLouayChatti)
