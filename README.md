@@ -7,6 +7,7 @@
 I’m an AI / ML enthusiast and aspiring engineer currently studying software engineering @ INSAT.
 Passionate about building real-world AI solutions, I continuously expand my skills through hands-on projects — from developing machine learning and deep learning models to exploring computer vision and natural language processing.
 While my primary focus remains AI research and model development, I also actively sharpen my algorithmic thinking through data structures and competitive programming challenges.
+
 ---
 
 ## Technical Skills & Interests
@@ -31,7 +32,7 @@ While my primary focus remains AI research and model development, I also activel
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="Symfony" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://codeforces.org/s/13284/images/codeforces-logo-with-text.png" alt="Codeforces" width="40" height="40"/>
+  <img src="https://codeforces.org/s/0/images/codeforces-logo-with-text.png" alt="Codeforces" width="40" height="40"/>
 
 </p>
 
