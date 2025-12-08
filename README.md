@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=AI+Engineer&animation=fadeIn&type=waving&color=gradient&height=100" alt="AI Engineer" />
+  <img src="https://capsule-render.vercel.app/api?text=AI+/+ML+Engineer&animation=fadeIn&type=waving&color=gradient&height=100" alt="AI/ML Engineer" />
 </p>
 
 ## Hi, I’m Mohamed Louay Chatti
@@ -32,7 +32,6 @@ While my primary focus remains AI research and model development, I also activel
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="Symfony" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://codeforces.org/s/0/images/codeforces-logo-with-text.png" alt="Codeforces" width="40" height="40"/>
 
 </p>
 
@@ -43,5 +42,5 @@ Machine Learning, Deep Learning, Computer Vision, NLP, Reinforcement Learning, F
 
 ### GitHub Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=MohamedLouayChatti&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedLouayChatti&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohamedLouayChatti&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohamedLouayChatti&theme=aura_dark)
