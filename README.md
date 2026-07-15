@@ -55,5 +55,8 @@ System design and architecture, AI-based applications, Machine Learning, NLP, Co
 
 ### GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohamedLouayChatti&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohamedLouayChatti&theme=aura_dark)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MohamedLouayChatti&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00c896&fire=7c6aff&currStreakLabel=00c896)](https://git.io/streak-stats)
+
+</div>
