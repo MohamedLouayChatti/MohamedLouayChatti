@@ -50,13 +50,3 @@ While my primary focus remains AI development and system design, I also actively
 
 ### Interests
 System design and architecture, AI-based applications, Machine Learning, NLP, Competitive Programming.
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MohamedLouayChatti&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00c896&fire=7c6aff&currStreakLabel=00c896)](https://git.io/streak-stats)
-
-</div>
